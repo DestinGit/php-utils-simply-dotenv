@@ -6,4 +6,5 @@ require __DIR__ . '/SimplyDotEnv.php';
 
 echo getenv('APP_ENV');
 echo "\n";
+echo "\n";
 echo getenv('DATABASE_DNS');
